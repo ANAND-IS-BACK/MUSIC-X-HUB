@@ -52,7 +52,7 @@ pm_buttons = [
     [InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="fallen_help")],
     [
         InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url= config.https://t.me/MUSIC_X_HUB),
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url= config.https://t.me/MUSIC_X_LOVE),
+        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url= config.https://t.me/+CH7j5EE2VtA2NGE1),
     ],
     [
         InlineKeyboardButton(
@@ -72,7 +72,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url= config.https://t.me/MUSIC_X_HUB),
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url= config.https://t.me/MUSIC_X_LOVE),
+        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url= config.https://t.me/+CH7j5EE2VtA2NGE1),
     ],
     [
         InlineKeyboardButton(
